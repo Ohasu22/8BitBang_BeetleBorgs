@@ -62,7 +62,7 @@ You can play the latest build of *8-Bit Bang* here:
 
 
 ## 🧑‍💻 Credits
-- **Game Design & Programming:** Team BeetleBorgs
+- **Game Design & Programming:** Hrishikesh Girsawale
 - **Art & Animation:** Ojas Gharde
 - **Sound & Music:** Ojas Gharde
 
