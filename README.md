@@ -43,15 +43,23 @@ A fast-paced pixel dueling game where timing is everything.
 - `/Builds` - Packaged Windows build (optional)
 - `/Docs` - Game design document, roadmap, presentation
 
+
 ## 🚀 Getting Started
 You can play the latest build of *8-Bit Bang* here:  
 🔗 [Download on Google Drive](https://drive.google.com/drive/folders/1NNUgXtv0PVDkddngBnGdb2uOedARzbVB?usp=sharing)
 
+
+<img width="1536" height="1024" alt="W_Background" src="https://github.com/user-attachments/assets/519fccee-be91-4327-aa1c-df6498e192cd" />
+
 1. Download and unzip the latest build.
-2. Run `8BitBang.exe` inside the `WindowsNoEditor` folder.
+2. Run `8BitBang.exe` inside the `Windows` folder.
 3. Press **Space** to duel. Survive as long as you can!
 
 > No installation required. Windows only. Gamepad support coming soon.
+
+<img width="1920" height="1080" alt="1" src="https://github.com/user-attachments/assets/78c0cb95-a82d-4ad5-959a-81ef0e7784e2" />
+
+
 
 ## 🧑‍💻 Credits
 - **Game Design & Programming:** Team BeetleBorgs
